@@ -1,0 +1,7 @@
+__pycache__/
+chromedriver-win64/
+files/
+logs/
+venv/
+env/
+.env/
